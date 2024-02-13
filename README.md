@@ -9,8 +9,7 @@ At the moment SwiftUI does not natively support right-click, I could look into [
 ## Tasks
 
 - [ ] Enable notifications.
-- [ ] Command flags to macOS binary `-enable` and `-disable` to use within scripts.
-- [ ] Move menu to right-click and have left-click directly enable/disable.
+- [ ] Waiting: Move menu to right-click and have left-click directly toggle.
 
 ## Credits for Image in App Icon
 
