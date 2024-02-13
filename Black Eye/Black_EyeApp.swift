@@ -11,6 +11,7 @@ import SwiftUI
 struct Black_EyeApp: App {
     @State var currentOption: String = "Enable"
     @State var currentOptionIcon: String = "mug"
+    // Setup an instance of SleepManager
     let sleepManager = SleepManager()
     
     var body: some Scene {
